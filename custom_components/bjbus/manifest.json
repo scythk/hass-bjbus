@@ -4,6 +4,7 @@
   "config_flow": true,
   "documentation": "https://github.com/ha0y/hass-bjbus",
   "requirements": [],
+  "version": "1.1",
   "codeowners": [
     "@ha0y"
   ]
