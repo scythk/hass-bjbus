@@ -1,0 +1,6 @@
+{
+    "name": "北京公交查询",
+    "country": "CN",
+    "homeassistant": "0.99.9",
+    "render_readme": true
+}
